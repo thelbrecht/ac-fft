@@ -1,4 +1,4 @@
-# Graphs
+# Algorithms and Complexity - Polynomial multiplication
 This repository contains all figures used in my presentation about Polynomial multiplication on June 12, 2020. The assets are generated using the 
 various python scripts in this repository and make use of few python libraries,
 namely matplotlib and numpy.
