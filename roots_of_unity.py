@@ -4,7 +4,7 @@ from matplotlib.patches import Circle
 
 class RootsOfUnity:
     def __init__(self):
-        self.n = 100
+        self.n = 5
         self.roots = np.roots( [1,] + [0,]*(self.n-1) + [-1,] )
     def create_view(self):
         fig, ax = plt.subplots(figsize=(6, 6))
